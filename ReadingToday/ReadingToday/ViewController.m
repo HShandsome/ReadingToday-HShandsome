@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"你猜我是谁");
+    //你师傅开始登记方式的飞机上代理费
 }
 
 - (void)didReceiveMemoryWarning {
